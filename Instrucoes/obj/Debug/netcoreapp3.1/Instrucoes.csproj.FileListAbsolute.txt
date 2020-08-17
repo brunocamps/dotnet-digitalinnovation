@@ -1,0 +1,12 @@
+/Users/brunocampos/Documents/Github/DotNet/Instrucoes/bin/Debug/netcoreapp3.1/Instrucoes.deps.json
+/Users/brunocampos/Documents/Github/DotNet/Instrucoes/bin/Debug/netcoreapp3.1/Instrucoes.runtimeconfig.json
+/Users/brunocampos/Documents/Github/DotNet/Instrucoes/bin/Debug/netcoreapp3.1/Instrucoes.runtimeconfig.dev.json
+/Users/brunocampos/Documents/Github/DotNet/Instrucoes/bin/Debug/netcoreapp3.1/Instrucoes.dll
+/Users/brunocampos/Documents/Github/DotNet/Instrucoes/bin/Debug/netcoreapp3.1/Instrucoes.pdb
+/Users/brunocampos/Documents/Github/DotNet/Instrucoes/obj/Debug/netcoreapp3.1/Instrucoes.csprojAssemblyReference.cache
+/Users/brunocampos/Documents/Github/DotNet/Instrucoes/obj/Debug/netcoreapp3.1/Instrucoes.AssemblyInfoInputs.cache
+/Users/brunocampos/Documents/Github/DotNet/Instrucoes/obj/Debug/netcoreapp3.1/Instrucoes.AssemblyInfo.cs
+/Users/brunocampos/Documents/Github/DotNet/Instrucoes/obj/Debug/netcoreapp3.1/Instrucoes.csproj.CoreCompileInputs.cache
+/Users/brunocampos/Documents/Github/DotNet/Instrucoes/obj/Debug/netcoreapp3.1/Instrucoes.dll
+/Users/brunocampos/Documents/Github/DotNet/Instrucoes/obj/Debug/netcoreapp3.1/Instrucoes.pdb
+/Users/brunocampos/Documents/Github/DotNet/Instrucoes/obj/Debug/netcoreapp3.1/Instrucoes.genruntimeconfig.cache

@@ -194,6 +194,35 @@ namespace Instrucoes
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            //Exemplo de Array Unidimensional
+            //O quê o bloco abaixo faz?
+            int[] a = new int[10]; //10 posicoes
+
+            for(int i = 0; i < a.Length; i++) //laco for enquanto i for menor que o tamanho
+            {
+                a[i] = i * i; //pega a na posicao i e preenche o valor com i vezes i
+            }
+            for (int i = 0; i < a.Length; i++) //outro laco for apenas para imprimir na tela
+            {
+                Console.WriteLine($"a[{i}] = {a[i]}"); 
+            }
+
+            Console.WriteLine("----------");
+
+            int[,] a2 = new int[10, 5];
+
+            int[,,] a3 = new int[10, 5, 2];
+
+            //Inicializador de Array
+
+            // int[] a = new int[] {1, 2, 3};
+
+            // int[] a = {1, 2, 3};
+
+
+            
+
         }
     }
 
