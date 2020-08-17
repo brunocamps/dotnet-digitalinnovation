@@ -1,0 +1,12 @@
+/Users/brunocampos/Documents/Github/DotNet/EstruturaDoPrograma/bin/Debug/netcoreapp3.1/EstruturaDoPrograma.deps.json
+/Users/brunocampos/Documents/Github/DotNet/EstruturaDoPrograma/bin/Debug/netcoreapp3.1/EstruturaDoPrograma.runtimeconfig.json
+/Users/brunocampos/Documents/Github/DotNet/EstruturaDoPrograma/bin/Debug/netcoreapp3.1/EstruturaDoPrograma.runtimeconfig.dev.json
+/Users/brunocampos/Documents/Github/DotNet/EstruturaDoPrograma/bin/Debug/netcoreapp3.1/EstruturaDoPrograma.dll
+/Users/brunocampos/Documents/Github/DotNet/EstruturaDoPrograma/bin/Debug/netcoreapp3.1/EstruturaDoPrograma.pdb
+/Users/brunocampos/Documents/Github/DotNet/EstruturaDoPrograma/obj/Debug/netcoreapp3.1/EstruturaDoPrograma.csprojAssemblyReference.cache
+/Users/brunocampos/Documents/Github/DotNet/EstruturaDoPrograma/obj/Debug/netcoreapp3.1/EstruturaDoPrograma.AssemblyInfoInputs.cache
+/Users/brunocampos/Documents/Github/DotNet/EstruturaDoPrograma/obj/Debug/netcoreapp3.1/EstruturaDoPrograma.AssemblyInfo.cs
+/Users/brunocampos/Documents/Github/DotNet/EstruturaDoPrograma/obj/Debug/netcoreapp3.1/EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+/Users/brunocampos/Documents/Github/DotNet/EstruturaDoPrograma/obj/Debug/netcoreapp3.1/EstruturaDoPrograma.dll
+/Users/brunocampos/Documents/Github/DotNet/EstruturaDoPrograma/obj/Debug/netcoreapp3.1/EstruturaDoPrograma.pdb
+/Users/brunocampos/Documents/Github/DotNet/EstruturaDoPrograma/obj/Debug/netcoreapp3.1/EstruturaDoPrograma.genruntimeconfig.cache
